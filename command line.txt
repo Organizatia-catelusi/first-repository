@@ -1,0 +1,5 @@
+cd "C:\Users\japan\OneDrive\Documents\Instalari\oxygen-xml-web-author"
+
+"stop oXygen XML Web Author.bat"
+
+"start oXygen XML Web Author.bat"
